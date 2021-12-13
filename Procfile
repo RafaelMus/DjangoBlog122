@@ -1,0 +1,1 @@
+web: gunicorn django_outerwear_project.wsgi --log-file -
